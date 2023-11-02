@@ -1,7 +1,7 @@
 
  
-<h1 style="background-color:#151B4A; color:white;">Hello there ! </h1>
- I'm Alex, here to improve my coding skills, I love to tinker IRL and IVL,
+<h1>Hello there ! </h1>
+ I'm Alex, here to improve my coding skills, I love to tinker with anything, IRL and IVL .
 
  Feel free to judge and review !
 
@@ -14,7 +14,7 @@
 </p>
 <p> <br> </p>
 
-<h2 style="background-color:#151B4A; color:white;"> Reach me on </h2>
+<h2> Reach me on </h2>
 
 <p align="center">
   <a href="mailto:alexgabrielline@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,7 +24,7 @@
 </p>
 
 
-<h2 style="background-color:#151B4A; color:white;"> Are you bored? Let's have a call ! </h2>
+<h2> Are you bored? Let's have a call ! </h2>
 
 Pick a slot if you'd like to chat about anything you are into !
 <h2 align="center">
