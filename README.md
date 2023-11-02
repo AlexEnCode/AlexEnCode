@@ -19,7 +19,3 @@
   <a target="_blank"href="https://instagram.com/brocetrelooking"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <h2>
 </p>
-
-<div style="background-color:rgb(14, 48, 110) color:white"; >
-test
-</div>
