@@ -1,4 +1,9 @@
-<link href="readme.css" rel=""></link>
+<Style>
+    .markdown-block {
+    background: rgb(14, 48, 110);
+    color: white;
+}
+</Style>
 
 # Hello there ! 
 ### I'm Alex, here to improve my coding skills, I love to tinker IRL and IVL,
@@ -21,23 +26,5 @@
   <a target="_blank"href="https://instagram.com/brocetrelooking"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <h2>
 </p>
-<!-- **AlexEnCode/AlexEnCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
-
-<Style>
-    .markdown-block {
-    background: rgb(14, 48, 110);
-    color: white;
-}
-</Style>
