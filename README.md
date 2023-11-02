@@ -1,3 +1,5 @@
+<link href="readme.css" rel=""></link>
+
 # Hello there ! 
 ### I'm Alex, here to improve my coding skills, I love to tinker IRL and IVL,
 ### Feel free to judge and review !
@@ -32,3 +34,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+
+<Style>
+{}
