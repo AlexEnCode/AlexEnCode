@@ -36,4 +36,8 @@ Here are some ideas to get you started:
  -->
 
 <Style>
-{}
+    .markdown-block {
+    background: rgb(14, 48, 110);
+    color: white;
+}
+</Style>
