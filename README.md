@@ -36,3 +36,18 @@ Pick a slot if you'd like to chat about anything you are into !
 <a style="color:#31397D" href="https://calendly.com/alexcode/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"> </a>
 <br><br>
 </h2>
+
+<br><br>
+<div align="center"> 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=AlexEnCode&show_icons=true&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=AlexEnCode&show_icons=true&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexEnCode&show_icons=true&hide_border=true" />
+</picture>
+</div>
