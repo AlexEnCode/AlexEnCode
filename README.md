@@ -1,9 +1,9 @@
 
-# Hello there ! 
-### I'm Alex, here to improve my coding skills, I love to tinker IRL and IVL,
-### Feel free to judge and review !
+<h1>Hello there ! </h1>
+ I'm Alex, here to improve my coding skills, I love to tinker IRL and IVL,
 
-<p> <br></p>
+ Feel free to judge and review !
+
 
 <p align="center">
   <a><img src="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" /></a>&nbsp;
@@ -13,7 +13,7 @@
 </p>
 <p> <br> </p>
 
-## Reach me on
+<h2> Reach me on </h2>
 
 <p align="center">
   <a href="mailto:alexgabrielline@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,9 +23,9 @@
 </p>
 
 
-## Are you bored? Let's have a call !
+<h2> Are you bored? Let's have a call ! </h2>
 
 Pick a slot if you'd like to chat about anything you are into !
 <h2 align="center">
-<a href="https://calendly.com/alexcode/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"> </a>
+<a style="color:#31397D" href="https://calendly.com/alexcode/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"> </a>
 </h2>
