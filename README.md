@@ -1,10 +1,5 @@
 
-.a {
-    background: rgb(14, 48, 110);
-    color: white;
-}
 
-<div style="background-color:rgb(14, 48, 110) color:white"; >
 # Hello there ! 
 ### I'm Alex, here to improve my coding skills, I love to tinker IRL and IVL,
 ### Feel free to judge and review !
@@ -27,4 +22,6 @@
 <h2>
 </p>
 
+<div style="background-color:rgb(14, 48, 110) color:white"; >
+test
 </div>
