@@ -1,8 +1,7 @@
 
  
-<a style="font-size: 24px; color: #273469">Hello there ! </a>
+<h1>Hello there ! </h1>
 
-<a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS25KHDMwqWMrRw09KbdPo_U2QaQ9th0HHaVVp6-QYMSYEkyB8rdRDeCBUwAfPQu3aRBA&usqp=CAU" /></a>
 
  I'm Alex, here to improve my coding skills, I love to tinker with anything, IRL and IVL .
 
@@ -17,8 +16,8 @@
 </p>
 <p> <br> </p>
 
-<a style="font-size: 24px; color: #273469"> Reach me on :</a>
-<a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS25KHDMwqWMrRw09KbdPo_U2QaQ9th0HHaVVp6-QYMSYEkyB8rdRDeCBUwAfPQu3aRBA&usqp=CAU" /></a>
+<h1> Reach me on :</h1>
+
 
 <p align="center">
   <a href="mailto:alexgabrielline@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,12 +27,12 @@
 </p>
 
 
-<a style="font-size: 24px; color: #273469"> Are you bored? Let's have a call ! </a>
-<a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS25KHDMwqWMrRw09KbdPo_U2QaQ9th0HHaVVp6-QYMSYEkyB8rdRDeCBUwAfPQu3aRBA&usqp=CAU" /></a>
+<h1> Are you bored? Let's have a call ! </h1>
+
 
 Pick a slot if you'd like to chat about anything you are into !
-
+<h2 align="center">
 <br>
-<div align="center"><a style="color: #273469" href="https://calendly.com/alexcode/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"> </a> </div>
+<a style="color:#31397D" href="https://calendly.com/alexcode/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"> </a>
 <br><br>
-<a align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS25KHDMwqWMrRw09KbdPo_U2QaQ9th0HHaVVp6-QYMSYEkyB8rdRDeCBUwAfPQu3aRBA&usqp=CAU" /></a>
+</h2>
