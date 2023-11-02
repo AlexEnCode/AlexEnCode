@@ -1,7 +1,6 @@
 
-
-<div style="background-color:#151B4A; color:white;"> 
-<h1>Hello there ! </h1>
+ 
+<h1 style="background-color:#151B4A; color:white;">Hello there ! </h1>
  I'm Alex, here to improve my coding skills, I love to tinker IRL and IVL,
 
  Feel free to judge and review !
@@ -15,7 +14,7 @@
 </p>
 <p> <br> </p>
 
-<h2> Reach me on </h2>
+<h2 style="background-color:#151B4A; color:white;"> Reach me on </h2>
 
 <p align="center">
   <a href="mailto:alexgabrielline@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,11 +24,10 @@
 </p>
 
 
-<h2> Are you bored? Let's have a call ! </h2>
+<h2 style="background-color:#151B4A; color:white;"> Are you bored? Let's have a call ! </h2>
 
 Pick a slot if you'd like to chat about anything you are into !
 <h2 align="center">
 <a style="color:#31397D" href="https://calendly.com/alexcode/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"> </a>
 </h2>
 
-</div>
