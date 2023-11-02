@@ -33,3 +33,5 @@ Pick a slot if you'd like to chat about anything you are into !
 <br><br>
 </h2>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexandre-lin%C3%A9-6b440b298/"><img src="https://scontent-cdg4-1.cdninstagram.com/v/t51.2885-19/140930926_417452715975518_2544301826672798842_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=tGJ3LJK5qqEAX9i2F_7&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfA_4TPegboDqwE-2s3YiaCRvCOV2P_3yz0JUNQTZheKjg&oe=65489355&_nc_sid=ee9879" /></a>
