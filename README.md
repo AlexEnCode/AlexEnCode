@@ -29,7 +29,7 @@ Feel free to judge and review !
 <br>
 You can contact me about anything and everything ! 
 
-I will always take time to answer you!
+I will always take time to answer to you :
 
 <br>
 <p align="center">
@@ -46,15 +46,14 @@ I will always take time to answer you!
 <br>
 Pick a slot if you'd like to chat about anything you are into !
 
-We could talk about Sci-fi books, interior design, indoor plants... 
- <img alt="" src="livre-50.png" />
-  <img alt="" src="bureau-50.png" />
-   <img alt="" src="plante-50.png" />    
-   Or even coding !    
-
+We could talk about Sci-fi books, interior design, indoor plants...   
+Or even coding !    
+<img alt="" src="garde-robe-60.png" />&nbsp;
+<img alt="" src="plante-64.png" /> &nbsp;
+<img alt="" src="livre-52.png" /> 
 
 <h2 align="center">
-<br>
+
 <a style="color:#31397D" href="https://calendly.com/alexcode/30min" target="_blank"><img width="498" alt="meet_link" src="bouton2.png"> </a>
 <br><br>
 </h2>
