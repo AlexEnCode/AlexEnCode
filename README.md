@@ -8,10 +8,8 @@ I love to tinker with anything, IRL and IVL .
 
 Feel free to judge and review !
 
- 
+<br>
 
-
-  
   <p align="center">
   <a>    <img alt="C#" src="https://img.shields.io/badge/-C%23-3D516D?style=flat-square&logo=csharp&logoColor=white" />&nbsp;
     <img alt=".Net" src="https://img.shields.io/badge/-.Net-3D516D?style=flat-square&logo=dotnet&logoColor=white" />&nbsp;
@@ -26,7 +24,6 @@ Feel free to judge and review !
   <br><br><br>
 </p>
 
-
 <img src="reachMe.png" />
 
 <br>
@@ -39,7 +36,6 @@ Feel free to judge and review !
 
 <img src="areYou.png" />
 
-
 <br>
 Pick a slot if you'd like to chat about anything you are into !
 <h2 align="center">
@@ -47,8 +43,7 @@ Pick a slot if you'd like to chat about anything you are into !
 <a style="color:#31397D" href="https://calendly.com/alexcode/30min" target="_blank"><img width="498" alt="meet_link" src="bouton.png"> </a>
 <br><br>
 </h2>
-
-<br>
+<br><br>
 <div align="center"> 
 <picture>
   <source
