@@ -1,6 +1,6 @@
 
  
-<img src="helloThere.png" />
+<img src="helloThere1.png" />
 
 
     I'm Alex, here to improve my coding skills, 
@@ -18,7 +18,7 @@
 </p>
 <p> <br> </p>
 
-<img src="reachMeOn.png" />
+<img src="reachMeOn1.png" />
 
 <br>
 <p align="center">
@@ -28,7 +28,7 @@
 <br><br>
 </p>
 
-<img src="areYouBored.png" />
+<img src="areYouBored1.png" />
 
 
 
