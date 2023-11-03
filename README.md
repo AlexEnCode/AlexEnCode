@@ -26,7 +26,7 @@ Feel free to judge and review !
 
 <img src="reachMe.png" />
 
-<br>
+You can contact me about anything and everything !
 <p align="center">
   <a href="mailto:alexgabrielline@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-F0E2D7.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/alexandre-lin%C3%A9-6b440b298/"><img src="https://img.shields.io/badge/linkedin-E0C4AE.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,6 +38,7 @@ Feel free to judge and review !
 
 <br>
 Pick a slot if you'd like to chat about anything you are into !
+We could talk about Sci-fi books, interior design, indoor plants... or even coding !
 <h2 align="center">
 <br>
 <a style="color:#31397D" href="https://calendly.com/alexcode/30min" target="_blank"><img width="498" alt="meet_link" src="bouton.png"> </a>
