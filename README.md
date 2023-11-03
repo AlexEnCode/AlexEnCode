@@ -1,6 +1,6 @@
 
  
-<h1>Hello there ! </h1>
+<img src="helloThere.png" />
 
 
  I'm Alex, here to improve my coding skills, I love to tinker with anything, IRL and IVL .
@@ -16,7 +16,7 @@
 </p>
 <p> <br> </p>
 
-<h1> Reach me on :</h1>
+<img src="reachMeOn.png" />
 
 
 <p align="center">
@@ -26,8 +26,8 @@
 <br><br>
 </p>
 
+<img src="areYouBored.png" />
 
-<h1> Are you bored? Let's have a call ! </h1>
 
 
 Pick a slot if you'd like to chat about anything you are into !
