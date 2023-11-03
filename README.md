@@ -29,7 +29,7 @@ Feel free to judge and review !
 <br>
 You can contact me about anything and everything ! 
 
-I will always take time to answer to you :
+I will, for sure, take time to answer to you :
 
 <br>
 <p align="center">
