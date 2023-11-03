@@ -3,9 +3,11 @@
 <img src="helloThere.png" />
 
 
- I'm Alex, here to improve my coding skills, I love to tinker with anything, IRL and IVL .
+    I'm Alex, here to improve my coding skills, 
+    I love to tinker with anything, IRL and IVL .
+    Feel free to judge and review !
 
- Feel free to judge and review !
+ 
 
 
 <p align="center">
@@ -18,7 +20,7 @@
 
 <img src="reachMeOn.png" />
 
-
+<br>
 <p align="center">
   <a href="mailto:alexgabrielline@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/alexandre-lin%C3%A9-6b440b298/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,7 +32,7 @@
 
 
 
-Pick a slot if you'd like to chat about anything you are into !
+    Pick a slot if you'd like to chat about anything you are into !
 <h2 align="center">
 <br>
 <a style="color:#31397D" href="https://calendly.com/alexcode/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"> </a>
