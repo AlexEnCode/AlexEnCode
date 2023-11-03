@@ -48,7 +48,7 @@ Pick a slot if you'd like to chat about anything you are into !
 
 We could talk about Sci-fi books, interior design, indoor plants...   
 Or even coding !    
-<img alt="" src="garde-robe-60.png" />&nbsp;
+&nbsp;&nbsp;<img alt="" src="garde-robe-60.png" />&nbsp;
 <img alt="" src="plante-64.png" /> &nbsp;
 <img alt="" src="livre-52.png" /> 
 
