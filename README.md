@@ -1,8 +1,8 @@
 
  
-<img src="helloThere.png" />
+<img src="hello.png" />
 
-
+<br>
 I'm Alex, here to improve my coding skills, 
 I love to tinker with anything, IRL and IVL .
 
@@ -19,7 +19,7 @@ Feel free to judge and review !
 </p>
 <p> <br> </p>
 
-<img src="reachMeOn.png" />
+<img src="reachMe.png" />
 
 <br>
 <p align="center">
@@ -29,14 +29,14 @@ Feel free to judge and review !
 <br><br>
 </p>
 
-<img src="areYouBored.png" />
+<img src="areYou.png" />
 
 
-
+<br>
 Pick a slot if you'd like to chat about anything you are into !
 <h2 align="center">
 <br>
-<a style="color:#31397D" href="https://calendly.com/alexcode/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"> </a>
+<a style="color:#31397D" href="https://calendly.com/alexcode/30min" target="_blank"><img width="498" alt="meet_link" src="bouton.png"> </a>
 <br><br>
 </h2>
 
