@@ -21,18 +21,23 @@ Feel free to judge and review !
     <img alt="Github" src="https://img.shields.io/badge/-Github-F0E2D7?style=flat-square&logo=github&logoColor=white" />&nbsp;
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F0E2D7?style=flat-square&logo=prettier&logoColor=white" />&nbsp;
   </a>
-  <br><br><br>
+  <br><br>
 </p>
 
 <img src="reachMe.png" />
 
-You can contact me about anything and everything !
 <br>
+You can contact me about anything and everything ! 
+
+I will always take time to answer you!
+
+<br><br>
 <p align="center">
   <a target="_blank"href="https://instagram.com/brocetrelooking"><img src="https://img.shields.io/badge/instagram-3D516D?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/alexandre-lin%C3%A9-6b440b298/"><img src="https://img.shields.io/badge/linkedin-E0C4AE.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:alexgabrielline@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-F0E2D7.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<br><br>
+<br>
+<br>
 </p>
 
 <img src="areYou.png" />
@@ -40,6 +45,7 @@ You can contact me about anything and everything !
 <br>
 Pick a slot if you'd like to chat about anything you are into !
 We could talk about Sci-fi books, interior design, indoor plants...
+
 Or even coding !
 <h2 align="center">
 <br>
