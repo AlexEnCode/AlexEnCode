@@ -31,7 +31,7 @@ You can contact me about anything and everything !
 
 I will always take time to answer you!
 
-<br><br>
+<br>
 <p align="center">
   <a target="_blank"href="https://instagram.com/brocetrelooking"><img src="https://img.shields.io/badge/instagram-3D516D?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/alexandre-lin%C3%A9-6b440b298/"><img src="https://img.shields.io/badge/linkedin-E0C4AE.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
