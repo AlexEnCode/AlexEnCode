@@ -45,7 +45,7 @@ I will, for sure, take time to answer to you :
 <img src="areYou.png" />
 
 <br>
-Pick a slot if you'd like to chat about anything you are into !
+Click on the box below, and pick a slot if you'd like to chat about anything you are into !
 
 We could talk about Sci-fi books, interior design, indoor plants...   
 Or even coding !    
