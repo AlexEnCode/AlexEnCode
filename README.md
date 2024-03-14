@@ -20,7 +20,6 @@ Feel free to judge and review !
    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-8F8B8E?style=flat-square&logo=css3&logoColor=white" />&nbsp; 
    <img alt="Visual Studio" src="https://img.shields.io/badge/-VS-E0C4AE?style=flat-square&logo=visualstudio&logoColor=white" />&nbsp;
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-E0C4AE?style=flat-square&logo=visualstudiocode&logoColor=white" />&nbsp;
-   <img alt="Github" src="https://img.shields.io/badge/-Github-F0E2D7?style=flat-square&logo=github&logoColor=white" />&nbsp;
    <img alt="Git" src="https://img.shields.io/badge/-Git-F0E2D7?style=flat-square&logo=git&logoColor=white" />&nbsp;
    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F0E2D7?style=flat-square&logo=prettier&logoColor=white" />&nbsp;
  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F0E2D7?style=flat-square&logo=figma&logoColor=white" />&nbsp;
