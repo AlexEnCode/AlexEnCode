@@ -62,7 +62,8 @@ Or even coding !
 <br><br>
 </h2>
 <br><br>
-<div align="center"> 
+
+<div align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=AlexEnCode&show_icons=true&theme=dark&hide_border=true"
