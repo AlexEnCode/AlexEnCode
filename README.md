@@ -12,10 +12,10 @@ Feel free to judge and review !
   <a>    <img alt="C#" src="https://img.shields.io/badge/-C%23-3D516D?style=flat-square&logo=csharp&logoColor=white" />&nbsp;
    <img alt=".Net" src="https://img.shields.io/badge/-.Net-3D516D?style=flat-square&logo=dotnet&logoColor=white" />&nbsp;
    <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-3D516D?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
-   <img alt="Docker" src="https://img.shields.io/badge/-Docker-3D516D?style=flat-square&logo=docker&logoColor=white" />&nbsp;
    <img alt="JS" src="https://img.shields.io/badge/-Javascript-8F8B8E?style=flat-square&logo=javascript&logoColor=white" />&nbsp;
    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-8F8B8E?style=flat-square&logo=html5&logoColor=white" />  &nbsp;
    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-8F8B8E?style=flat-square&logo=css3&logoColor=white" />&nbsp; 
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-E0C4AE?style=flat-square&logo=docker&logoColor=white" />&nbsp;
    <img alt="Visual Studio" src="https://img.shields.io/badge/-VS-E0C4AE?style=flat-square&logo=visualstudio&logoColor=white" />&nbsp;
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-E0C4AE?style=flat-square&logo=visualstudiocode&logoColor=white" />&nbsp;
    <img alt="Git" src="https://img.shields.io/badge/-Git-F0E2D7?style=flat-square&logo=git&logoColor=white" />&nbsp;
