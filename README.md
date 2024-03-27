@@ -24,7 +24,6 @@ Feel free to judge and review !
   <br><br>
 </p>
 <img src="reachMe.png" />
-
 <br>
 You can contact me about anything and everything ! 
 
