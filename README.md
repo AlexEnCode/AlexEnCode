@@ -38,7 +38,6 @@ I will, for sure, take time to answer to you :
 <br>
 </p>
 
-
 <img src="areYou.png" />
 
 <br>
