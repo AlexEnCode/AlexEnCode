@@ -22,8 +22,8 @@ Feel free to judge and review !
      <img alt="Z/os" src="https://img.shields.io/badge/-Z/os-E0C4AE?style=flat-square&logo=ibm&logoColor=white" />&nbsp;
      <img alt="Azure" src="https://img.shields.io/badge/-Azure-E0C4AE?style=flat-square&logo=microsoft-azure&logoColor=white" />&nbsp;
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-E0C4AE?style=flat-square&logo=docker&logoColor=white" />&nbsp;
-   <img alt="Visual Studio" src="https://img.shields.io/badge/-VS-E0C4AE?style=flat-square&logo=visualstudio&logoColor=white" />&nbsp;
-   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-E0C4AE?style=flat-square&logo=visualstudiocode&logoColor=white" />&nbsp;
+   <img alt="Visual Studio" src="https://img.shields.io/badge/-VS-F0E2D7?style=flat-square&logo=visualstudio&logoColor=white" />&nbsp;
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-F0E2D7?style=flat-square&logo=visualstudiocode&logoColor=white" />&nbsp;
    <img alt="Git" src="https://img.shields.io/badge/-Git-F0E2D7?style=flat-square&logo=git&logoColor=white" />&nbsp;
    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F0E2D7?style=flat-square&logo=prettier&logoColor=white" />&nbsp;
  <img alt="Prettier" src="https://img.shields.io/badge/-Figma-F0E2D7?style=flat-square&logo=figma&logoColor=white" />&nbsp;
