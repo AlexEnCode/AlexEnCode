@@ -14,7 +14,8 @@ Feel free to judge and review !
    <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-3D516D?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
    <img alt="JS" src="https://img.shields.io/badge/-Javascript-8F8B8E?style=flat-square&logo=javascript&logoColor=white" />&nbsp;
    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-8F8B8E?style=flat-square&logo=html5&logoColor=white" />  &nbsp;
-   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-8F8B8E?style=flat-square&logo=css3&logoColor=white" />&nbsp; 
+   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-8F8B8E?style=flat-square&logo=css3&logoColor=white" />&nbsp;
+     <img alt="Blazor" src="https://img.shields.io/badge/-Blazor-8F8B8E?style=flat-square&logo=blazor&logoColor=white" />&nbsp; 
     <br>
      <img alt="Z/os" src="https://img.shields.io/badge/-Z/os-E0C4AE?style=flat-square&logo=ibm&logoColor=white" />&nbsp;
      <img alt="Azure" src="https://img.shields.io/badge/-Azure-E0C4AE?style=flat-square&logo=microsoft-azure&logoColor=white" />&nbsp;
