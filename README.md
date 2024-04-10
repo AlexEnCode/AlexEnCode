@@ -15,6 +15,7 @@ Feel free to judge and review !
    <img alt="JS" src="https://img.shields.io/badge/-Javascript-8F8B8E?style=flat-square&logo=javascript&logoColor=white" />&nbsp;
    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-8F8B8E?style=flat-square&logo=html5&logoColor=white" />  &nbsp;
    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-8F8B8E?style=flat-square&logo=css3&logoColor=white" />&nbsp; 
+    <br>
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-E0C4AE?style=flat-square&logo=docker&logoColor=white" />&nbsp;
    <img alt="Visual Studio" src="https://img.shields.io/badge/-VS-E0C4AE?style=flat-square&logo=visualstudio&logoColor=white" />&nbsp;
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-E0C4AE?style=flat-square&logo=visualstudiocode&logoColor=white" />&nbsp;
