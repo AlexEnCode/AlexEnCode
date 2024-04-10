@@ -12,6 +12,7 @@ Feel free to judge and review !
     <img alt="C#" src="https://img.shields.io/badge/-C%23-3D516D?style=flat-square&logo=csharp&logoColor=white" />&nbsp;
    <img alt=".Net" src="https://img.shields.io/badge/-.Net-3D516D?style=flat-square&logo=dotnet&logoColor=white" />&nbsp;
    <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-3D516D?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
+       <img alt="Mysql" src="https://img.shields.io/badge/-PostgreSQL-3D516D?style=flat-square&logo=postgresql&logoColor=white" />&nbsp;
    <img alt="JS" src="https://img.shields.io/badge/-Javascript-8F8B8E?style=flat-square&logo=javascript&logoColor=white" />&nbsp;
    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-8F8B8E?style=flat-square&logo=html5&logoColor=white" />  &nbsp;
    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-8F8B8E?style=flat-square&logo=css3&logoColor=white" />&nbsp;
