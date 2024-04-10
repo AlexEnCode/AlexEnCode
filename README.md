@@ -8,7 +8,7 @@ Feel free to judge and review !
 <br>
   <p align="center">
   <a>   
-     <img alt="COBOL" src=" https://img.shields.io/badge/-%20COBOL-3D516D?style=flat-square&logo=cobol&logoColor=white" />&nbsp;
+     <img alt="COBOL" src=" https://img.shields.io/badge/-COBOL-3D516D?style=flat-square&logo=cobol&logoColor=white" />&nbsp;
     <img alt="C#" src="https://img.shields.io/badge/-C%23-3D516D?style=flat-square&logo=csharp&logoColor=white" />&nbsp;
    <img alt=".Net" src="https://img.shields.io/badge/-.Net-3D516D?style=flat-square&logo=dotnet&logoColor=white" />&nbsp;
    <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-3D516D?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
