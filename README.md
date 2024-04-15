@@ -7,7 +7,7 @@ Feel free to judge and review !
 <br>
 <br>
 
-  <p align="center">
+<p align="center">
   <a>   
     <img alt="COBOL" src="https://img.shields.io/badge/-COBOL-3D516D?style=flat-square&logo=c&logoColor=white" />&nbsp;
     <img alt="C#" src="https://img.shields.io/badge/-C%23-3D516D?style=flat-square&logo=csharp&logoColor=white" />&nbsp;
