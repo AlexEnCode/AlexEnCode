@@ -1,5 +1,5 @@
 <img src="svg/Hello.svg" alt="Hello there !" style="width:100%;">
-<br>
+
 I'm Alex, a dev trainer, here to improve my coding skills,<br>
 I love to tinker with anything, IRL and IVL .<br>
 Feel free to judge and review !
@@ -33,9 +33,8 @@ Feel free to judge and review !
 </p>
 
 <img src="svg/ReachMe.svg" style="width:100%;" />
-<br>
-You can contact me about anything and everything ! 
 
+You can contact me about anything and everything ! <br>
 I will, for sure, take time to answer to you :
 
 <br>
@@ -49,10 +48,9 @@ I will, for sure, take time to answer to you :
 </p>
 <img src="svg/AreYou.svg" 
 style="width:100%;"/>
-<br>
-Let's have a call !<br>
-Click on the box below, and pick a slot if you'd like to chat about anything you are into !
 
+Let's have a call !<br>
+Click on the box below, and pick a slot if you'd like to chat about anything you are into !<br>
 We could talk about Sci-fi books, interior design, indoor plants...   
 Or even coding !    
 &nbsp;&nbsp;<img alt="" src="img/meuble.png" />&nbsp;
