@@ -35,7 +35,6 @@ Feel free to judge and review !
 <img src="svg/ReachMe.svg" style="width:100%;" />
 
 You can contact me about anything and everything ! 
-
 I will, for sure, take time to answer to you :
 
 <br>
@@ -52,7 +51,6 @@ style="width:100%;"/>
 
 Let's have a call !<br>
 Click on the box below, and pick a slot if you'd like to chat about anything you are into !
-
 We could talk about Sci-fi books, interior design, indoor plants...   
 Or even coding !    
 &nbsp;&nbsp;<img alt="" src="img/meuble.png" />&nbsp;
