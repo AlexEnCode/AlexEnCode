@@ -1,4 +1,4 @@
-<img src="https://github.com/AlexEnCode/AlexEnCode/blob/main/Hello.svg" alt="Hello there !" style="width:100%;">
+<img src="svg/Hello.svg" alt="Hello there !" style="width:100%;">
 <br>
 I'm Alex, a dev trainer, here to improve my coding skills,<br>
 I love to tinker with anything, IRL and IVL .<br>
@@ -31,7 +31,7 @@ Feel free to judge and review !
   </a>
   <br><br>
 </p>
-<img src="reachMe.png" />
+<img src="svg/ReachMe.svg" style="width:100%;" />
 <br>
 You can contact me about anything and everything ! 
 
@@ -46,24 +46,26 @@ I will, for sure, take time to answer to you :
 <br>
 <br>
 </p>
-<img src="areYou.png" />
+<img src="svg/AreYou.svg" 
+style="width:100%;"/>
 <br>
+Let's have a call !<br>
 Click on the box below, and pick a slot if you'd like to chat about anything you are into !
 
 We could talk about Sci-fi books, interior design, indoor plants...   
 Or even coding !    
-&nbsp;&nbsp;<img alt="" src="meuble.png" />&nbsp;
-<img alt="" src="plante.png" /> &nbsp;
-<img alt="" src="livre.png" /> 
+&nbsp;&nbsp;<img alt="" src="img/meuble.png" />&nbsp;
+<img alt="" src="img/plante.png" /> &nbsp;
+<img alt="" src="img/livre.png" /> 
 
 <h2 align="center">
 
-<a style="color:#31397D" href="https://calendly.com/alexcode/30min" target="_blank"><img width="498" alt="meet_link" src="bouton2.png"> </a>
+<a style="color:#31397D" href="https://calendly.com/alexcode/30min" target="_blank"><img width="498" alt="meet_link" src="img/bouton2.png"> </a>
 <br><br>
 </h2>
 <br><br>
 
-<div align="center">
+<div align="center" style="width:100%;">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=AlexEnCode&show_icons=true&theme=dark&hide_border=true"
