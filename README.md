@@ -1,4 +1,4 @@
-![Hello there !](https://raw.githubusercontent.com/AlexEnCode/AlexEnCode/main/hello.svg)
+<img src="https://raw.githubusercontent.com/AlexEnCode/AlexEnCode/main/images/hello.svg" alt="Hello there !" style="width:100%;">
 
 <br>
 I'm Alex, a dev trainer, here to improve my coding skills,<br>
