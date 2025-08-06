@@ -1,6 +1,6 @@
 <img src="hello.png" />
 <br>
-Hello there,
+Hello there,  
 I'm Alex, a dev trainer, here to improve my coding skills, 
 I love to tinker with anything, IRL and IVL .
 
