@@ -33,7 +33,7 @@ Feel free to judge and review !
 </p>
 
 <img src="svg/ReachMe.svg" style="width:100%;" />
-<br>
+
 You can contact me about anything and everything ! 
 
 I will, for sure, take time to answer to you :
@@ -49,7 +49,7 @@ I will, for sure, take time to answer to you :
 </p>
 <img src="svg/AreYou.svg" 
 style="width:100%;"/>
-<br>
+
 Let's have a call !<br>
 Click on the box below, and pick a slot if you'd like to chat about anything you are into !
 
