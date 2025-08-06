@@ -1,4 +1,4 @@
-![Hello there !](https://AlexEnCode.github.io/AlexEnCode/hello.svg)
+![Hello there !](hello.svg)
 
 <br>
 I'm Alex, a dev trainer, here to improve my coding skills,<br>
