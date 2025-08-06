@@ -1,7 +1,4 @@
-<svg width="100%" height="50" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="blue"/>
-  <text x="50%" y="50%" font-size="24" fill="white" dominant-baseline="middle" text-anchor="middle">Hello there !</text>
-</svg>
+![Hello there !](hello_there.svg)
 
 <br>
 I'm Alex, a dev trainer, here to improve my coding skills,<br>
