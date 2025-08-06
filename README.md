@@ -1,4 +1,5 @@
-<img src="https://AlexEnCode.github.io/AlexEnCode/hello.svg?sanitize=true" alt="Hello there !" style="width:100%;">
+<img src="https://github.com/AlexEnCode/AlexEnCode/blob/main/Hello.svg" alt="Hello there !" style="width:100%;">
+
 <br>
 I'm Alex, a dev trainer, here to improve my coding skills,<br>
 I love to tinker with anything, IRL and IVL .<br>
